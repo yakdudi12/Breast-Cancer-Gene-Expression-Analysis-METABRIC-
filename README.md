@@ -43,7 +43,7 @@ The code includes an `EDA` class that provides a variety of methods for performi
  ├── 📄 main.py             # Main project code  
  ├── 📄 README.md           # This file  
  ├── 📂 Plots               # Plots  
- └── 📂 datasets/           # Folder containing the METABRIC dataset  
+ └── 📂 breast_cancer_dataset.zip # Zip Folder containing the METABRIC dataset  
 ```
 
 ---

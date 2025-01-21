@@ -83,4 +83,4 @@ This project is part of my professional portfolio. If you have suggestions or fe
 ## 📬 Contact  
 
 Britez Santiago    
-www.linkedin.com/in/santiago-luis-britez-101a8a217  
+[LinkedIn](https://www.linkedin.com/in/santiago-luis-britez-101a8a217)  

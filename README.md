@@ -40,9 +40,9 @@ The code includes an `EDA` class that provides a variety of methods for performi
 
 ```
 📂 BreastCancerEDA  
- ├── 📄 main.py             # Main project code  
- ├── 📄 README.md           # This file  
- ├── 📂 Plots               # Plots  
+ ├── 📄 main.py                   # Main project code  
+ ├── 📄 README.md                 # This file  
+ ├── 📂 Breast_cancer_Plots       # Plots  
  └── 📂 breast_cancer_dataset.zip # Zip Folder containing the METABRIC dataset  
 ```
 
@@ -84,7 +84,3 @@ This project is part of my professional portfolio. If you have suggestions or fe
 
 Britez Santiago    
 www.linkedin.com/in/santiago-luis-britez-101a8a217  
-
----  
-
-If you need any further modifications or customizations, feel free to let me know! 😊
